@@ -1,0 +1,6 @@
+/target/
+.settings/
+.classpath
+.project
+/bin/
+juanpi-order/juanpi-order-domain/test-output/
